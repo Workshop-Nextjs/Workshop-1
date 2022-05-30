@@ -35,3 +35,5 @@ Pour "_app" et "_document"
 - https://ihatetomatoes-nextjs-101.vercel.app/post/app-and-document
 - https://medium.com/suyeonme/nextjs-getting-started-with-next-js-62f5fcbb7536
 
+Pour "_404"
+- https://www.netlify.com/blog/2020/12/08/making-a-custom-404-page-in-next.js/
