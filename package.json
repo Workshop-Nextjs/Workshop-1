@@ -1,0 +1,19 @@
+{
+    "name": "Workshop",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/Workshop-Nextjs/Workshop-1",
+    "author": "Romanie De Meyer <romanie.de-meyer@epitech.eu",
+    "private": false,
+
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "react": "18.1.0",
+        "react-dom": "18.1.0",
+        "next": "12.1.6"
+    }
+}
