@@ -28,9 +28,12 @@ Pour tester votre site web aller sur http://localhost:3000
 
 ## Documentations
 
-Pour "_app" et "_document"
+Pour "_app", "_document" et "_404"
 - https://nextjs.org/docs/advanced-features/custom-app
 - https://nextjs.org/docs/advanced-features/custom-document
-
-Pour "_404"
 - https://nextjs.org/docs/advanced-features/custom-error-page#404-page
+
+Quelques balises qui vous seront utiles "link", "Image", "DefaultSeo and NextSeo"
+- https://developer.mozilla.org/fr/docs/Web/HTML/Element/link
+- https://nextjs.org/docs/api-reference/next/image
+
