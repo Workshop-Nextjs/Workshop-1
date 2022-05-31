@@ -33,7 +33,7 @@ Pour "_app", "_document" et "_404"
 - https://nextjs.org/docs/advanced-features/custom-document
 - https://nextjs.org/docs/advanced-features/custom-error-page#404-page
 
-Quelques balises qui vous seront utiles "link", "Image", "DefaultSeo and NextSeo"
+Quelques balises qui vous seront utiles "link", "Image"
 - https://developer.mozilla.org/fr/docs/Web/HTML/Element/link
 - https://nextjs.org/docs/api-reference/next/image
 
