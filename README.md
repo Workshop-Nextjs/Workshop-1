@@ -19,10 +19,6 @@ Vous aurez aussi npm vu qu'il faut npm pour installer yarn
 ## Début des exercices
 Il vous faudra créer un dossier page = "pages" contenant "_app.jsx", "_document.jsx" et "404.jsx" plus au moins 2 pages aux design de votre choix
 
-Voici quelques exemples si vous n'avez pas d'inspiration
-
-
-
 
 Pour tester votre site web aller sur http://localhost:3000
 
@@ -34,6 +30,6 @@ Pour "_app", "_document" et "_404"
 - https://nextjs.org/docs/advanced-features/custom-error-page#404-page
 
 Quelques balises qui vous seront utiles "link", "Image"
-- https://developer.mozilla.org/fr/docs/Web/HTML/Element/link
+- https://nextjs.org/docs/api-reference/next/link
 - https://nextjs.org/docs/api-reference/next/image
 
