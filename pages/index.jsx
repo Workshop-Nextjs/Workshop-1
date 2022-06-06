@@ -5,11 +5,11 @@ const IndexPage = () => {
   const [weather, setWeather] = useState(null);
 
   useEffect(() => {
-    fetch(`${process.env.HOSTNAME}/api`).then((res) =>
+    fetch(`/api`).then((res) =>
       res.text().then((data) => setHello(data))
     );
 
-    fetch(`${process.env.HOSTNAME}/api/weather/current-weather`, {
+    fetch(`/api/weather/current-weather`, {
       method: "POST",
       headers: {
         Accept: "application/json",
