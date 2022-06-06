@@ -6,7 +6,7 @@ const CatsPage = () => {
     <div className="card-container">
       <Link href="/cats/baby-cats">
         <div id="card">
-          <img
+          <Image
             width="100%"
             height="100%"
             src="/images/petit-chat.jpeg"
