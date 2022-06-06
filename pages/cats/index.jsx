@@ -7,8 +7,8 @@ const CatsPage = () => {
       <Link href="/cats/baby-cats">
         <div id="card">
           <Image
-            width="100%"
-            height="100%"
+            width="500px"
+            height="500px"
             src="/images/petit-chat.jpeg"
           />
           <h2>Bébés chats</h2>
